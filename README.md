@@ -1,3 +1,3 @@
 # hello_world
 Tutorial Repo
-I'm Jeff Terry.
+I'm Jeff.
